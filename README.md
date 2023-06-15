@@ -1,4 +1,4 @@
-# hackintosh-B550-5500-5600XT
+# hackintosh-B550-5500-5700XT
 OpenCore EFI for B550 Chipset Motherboard with AMD Ryzen 5 5600G Processor + Radeon RX 5700 XT Graphics Card.
 Specification:
 
