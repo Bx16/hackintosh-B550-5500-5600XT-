@@ -17,5 +17,5 @@ Specification:
 
 Whats Work?
 
-    Installer booting
+    Installer booting but freeze at end (mouse, keyboard, power button do nothing)
 
