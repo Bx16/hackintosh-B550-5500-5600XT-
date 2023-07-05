@@ -39,12 +39,11 @@ Whats Work?
 	Wifi
 	HDMI
 	TRIM Support for SSD
-    
+        Bluetooth    
+        Booting without USB
 
 Whats don't work?
 	
-	Bluetooth
-	Booting without USB
 	Sleep
 
 Not tested
