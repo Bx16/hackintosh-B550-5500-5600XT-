@@ -5,14 +5,14 @@ Specification:
     Motherboard : 
 		MSI B550-A Pro
     BIOS : 
-		AMI BIOS 7C56vAD
+		AMI BIOS 7C56vAE
     CPU : 
 		AMD Ryzen 5 5500 6 cores
     RAM : 
 		2x Kingston Fury 16GB DDR4 3600Mhz XMP (Total: 32GB)
     Storage : 
 		1TB NVMe Lexar NM620 (Windows) 
-		120GB Adata SP900 SATA SSD (macOS)
+		1TB NVMe Lexar NM620 (macOS)
     dGPU : 
 		Powercolor Red Dragon AMD Radeon RX 5700 XT 8 GB VRAM
     Wifi/BT : 
@@ -24,9 +24,9 @@ Specification:
     Boot Mode : 
 		UEFI (CSM disabled)
     Bootloader : 
-		OpenCore 0.9.3
+		OpenCore 0.9.5
     OS : 
-		macOS Ventura 13.4
+		macOS Ventura 13.5.2
 		Windows 11 Pro
 
 Whats Work?
