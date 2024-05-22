@@ -5,13 +5,13 @@ Specification:
     Motherboard : 
 		MSI B550-A Pro
     BIOS : 
-		AMI BIOS 7C56vAE
+		AMI BIOS 7C56vAH
     CPU : 
 		AMD Ryzen 5 5500 6 cores
     RAM : 
 		2x Kingston Fury 16GB DDR4 3600Mhz XMP (Total: 32GB)
     Storage : 
-		1TB NVMe Lexar NM620 (Windows) 
+		256 GB m2 Sata Hynix HFS256G39TNF (Windows) 
 		1TB NVMe Lexar NM620 (macOS)
     dGPU : 
 		Powercolor Red Dragon AMD Radeon RX 5700 XT 8 GB VRAM
@@ -24,27 +24,29 @@ Specification:
     Boot Mode : 
 		UEFI (CSM disabled)
     Bootloader : 
-		OpenCore 0.9.5
+		OpenCore 1.0.0
     OS : 
-		macOS Ventura 13.5.2
+		macOS Sonoma 14.5
 		Windows 11 Pro
 
 Whats Work?
 	
 	QE/CI Graphics of RX 5700 XT + DRM
+	HDMI Audio
 	CPU Power Management
-	Shutdown and Restart
 	All USB Ports
 	Ethernet
-	Wifi
+	WiFi
 	HDMI
 	TRIM Support for SSD
         Bluetooth    
         Booting without USB
+	Sleep
+	iMessage
 
 Whats don't work?
 	
-	Sleep
+	?
 
 Not tested
 
